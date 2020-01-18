@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/ngochieu642/.virtualenvs/django_web/bin/python",
+    "python.formatting.provider": "black"
+}
